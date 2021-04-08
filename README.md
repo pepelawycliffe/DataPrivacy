@@ -5,3 +5,5 @@ Exodus Privacy application let you know what trackers are embedded in apps insta
 It helps you to take your privacy back!
 
 
+<img src="https://github.com/pepelawycliffe/DataPrivacy/blob/main/1.jpg">
+
